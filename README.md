@@ -1,4 +1,4 @@
-# file-details is a plagin for JETBRAINSE IDEA
+# File details is a plugin for jetbrains idea, phpstorm
 
 ## If you select a file and press a keyboard shortcut (ctrl + D or command + d) or select "file details" from the menu, you will return a window with information
 
